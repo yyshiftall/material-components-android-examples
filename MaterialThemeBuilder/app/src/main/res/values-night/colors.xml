@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Exported from Material color tools   -->
+    <color name="primaryColor">#000000</color>
+    <color name="primaryLightColor">#2c2c2c</color>
+    <color name="primaryDarkColor">#000000</color>
+    <color name="secondaryColor">#e50984</color>
+    <color name="secondaryLightColor">#ff5ab3</color>
+    <color name="secondaryDarkColor">#ad0057</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+
+</resources>
