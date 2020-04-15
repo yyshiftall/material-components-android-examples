@@ -64,12 +64,12 @@
 
     <!-- Exported from Material Color Tools   -->
     <!--<color name="primaryColor">#F4ECEC</color>-->
-    <color name="primaryColor">#ffffff</color>
-    <color name="primaryLightColor">#ffffff</color>
-    <color name="primaryDarkColor">#cccccc</color>
-    <color name="secondaryColor">#e50984</color>
-    <color name="secondaryLightColor">#ff5ab3</color>
-    <color name="secondaryDarkColor">#ad0057</color>
-    <color name="primaryTextColor">#000000</color>
-    <color name="secondaryTextColor">#ffffff</color>
+    <color name="primaryColor">#e50984</color>
+    <color name="primaryLightColor">#ff5ab3</color>
+    <color name="primaryDarkColor">#ad0057</color>
+    <color name="secondaryColor">#f9d1d8</color>
+    <color name="secondaryLightColor">#ffffff</color>
+    <color name="secondaryDarkColor">#c6a0a7</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
 </resources>
